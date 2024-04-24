@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <employees>
+        <employee>
+            <id>1</id>
+            <name>Emily Johnson</name>
+            <position>Marketing Manager</position>
+            <department>Marketing Department</department>
+        </employee>
+
+        <employee>
+            <id>2</id>
+            <name>Michael Chen</name>
+            <position>Software Engineer</position>
+            <department>Engineering Department</department>
+        </employee>
+
+        <employee>
+            <id>3</id>
+            <name>Sarah Rodriguez</name>
+            <position>Financial Analyst</position>
+            <department>Finance Department</department>
+        </employee>
+
+        <employee>
+            <id>4</id>
+            <name>David Smith</name>
+            <position>Sales Representative</position>
+            <department>Sales Department</department>
+        </employee>
+
+        <employee>
+            <id>5</id>
+            <name>Lisa Patel</name>
+            <position>Human Resources Coordinator</position>
+            <department>Human Resources Department</department>
+        </employee>
+
+        <employee>
+            <id>6</id>
+            <name>Jason Thompson</name>
+            <position>Operations Supervisor</position>
+            <department>Operations Department</department>
+        </employee>
+
+        <employee>
+            <id>7</id>
+            <name>Michelle Lee</name>
+            <position>Graphic Designer</position>
+            <department>Creative Department</department>
+        </employee>
+
+        <employee>
+            <id>8</id>
+            <name>Kevin Jones</name>
+            <position>Customer Service Representative</position>
+            <department>Customer Support Department</department>
+        </employee>
+
+        <employee>
+            <id>9</id>
+            <name>Rachel Garcia</name>
+            <position>Project Manager</position> <!-- Default position -->
+            <department>Project Management Office</department>
+        </employee>
+
+        <employee>
+            <id>10</id>
+            <name>Daniel Kim</name>
+            <position>Research Scientist</position>
+            <department>Research and Development Department</department>
+        </employee>
+
+        <employee>
+            <id>11</id>
+            <name>Amanda Lewis</name>
+            <position>Legal Counsel</position>
+            <department>Legal Department</department>
+        </employee>
+
+        <employee>
+            <id>12</id>
+            <name>Brian Clark</name>
+            <position>Quality Engineer</position>
+            <department>Engineering</department>
+        </employee>
+
+        <employee>
+            <id>13</id>
+            <name>Samantha Taylor</name>
+            <position>Administrative Assistant</position>
+            <department>Administration Department</department>
+        </employee>
+    </employees>
+</company>
